@@ -32,6 +32,13 @@ Then i though i have a Driver laying around so i used it and to my surprise *Dru
 After a lot of Tries and looking the circuit *staring at it* I found out that i did not common the ground *cries in pain* 🙂
  I common the Ground and it started working 
 
+<img src="https://media.discordapp.net/attachments/1266740715451318272/1267407849328345189/IMG_5669.jpg?ex=66afed4a&is=66ae9bca&hm=76d13d1a173d17049a74b97f3ed51fe19da24107db66a15b0e9c8031d3908325&=&format=webp&width=439&height=585">
+
 # Final Thoughts:
 
 I wanted to do a lot more on this but my main thing was done i got it working but i could not test it fully with solar so i did test it using my supply and here is the Final Project Picture:
+<img src="FinalProject" width="800" height="500">
+
+*if the Image looks crappy I am sorry was not planning on writing about it so yea*
+
+Thanks for Reading Have a Good day !!
